@@ -113,8 +113,6 @@ app.get("/:customListName", function(req, res){
     }
   });
 
-
-
 });
 
 
