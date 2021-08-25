@@ -30,15 +30,15 @@ const List = mongoose.model("List", listSchema);
 
 // Populate Model
 const amanda = new Item({
-  name: "Amanda"
+  name: "Click to Delete"
 });
 
 const projectAmaani = new Item({
-  name: "Amaani"
+  name: "Enjoy"
 });
 
 const america = new Item({
-  name: "America"
+  name: "By Mr. Fox"
 });
 
 const defaultItems = [amanda, projectAmaani, america];
